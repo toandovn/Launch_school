@@ -1,0 +1,17 @@
+{
+   "en":{
+
+    "welcome": "Welcome to Calculator",
+    "invalid number": "Invalid input. Please input an integer: ",
+    "first number": "Please enter first number: ",
+    "second number": "Please enter second number: "
+   },
+   "vn":{
+    "chao mung": "Chao ban den voi chuong trinh may tinh",
+    "invalid number": "So ban nhap khong hop le. Hay nhap lai",
+    "first number": "Hay nhap so dau tien: ",
+    "second number": "Hay nhap so thu hai: "
+
+   }
+
+}
